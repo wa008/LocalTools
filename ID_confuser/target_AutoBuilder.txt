@@ -1,0 +1,6 @@
+Provide a text input bar for user, we will display a picture with a download button to downlaod it.
+In terms of this picture, 
+1) split the picture with NxN parts, default value of N is 6. N can be adjust as a slide for user.
+2) the color of backgroud should be random two colors, colors of adjacent parts are different.
+3) one parts of same color contains input text from left to right, from above to bottom
+4) another parts of same color contains random characters, which can be uppercase, lowcase, number or special characters
